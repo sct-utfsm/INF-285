@@ -1,2 +1,3 @@
-# INF-258
-Material para del curso INF-258 Computación Científica
+# INF-285 - Computación Científica
+
+Acá encontrarán los **desafíos**, **tareas**, **tutoriales** y **material extra** del curso.
