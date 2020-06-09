@@ -8,3 +8,6 @@
   * Resolución de sistemas de ecuaciones lineales con:
     - PALU
     - Cholesky
+
+## Desafío 3: [Enunciado](./desafio_3.ipynb)
+  * Interpolación en 1D
