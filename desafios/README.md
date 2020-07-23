@@ -10,4 +10,10 @@
     - Cholesky
 
 ## Desafío 3: [Enunciado](./desafio_3.ipynb)
-  * Interpolación en 1D
+  * Interpolación polinomial 1D:
+  	- Vandermonde
+
+## Desafío 4: [Enunciado](./desafio_4.ipynb)
+  * Interpolación polinomial 1D:
+  	- Lagrange
+  	- Baricéntrica
