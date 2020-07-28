@@ -17,3 +17,8 @@
   * Interpolación polinomial 1D:
   	- Lagrange
   	- Baricéntrica
+    
+## Desafío 5: [Enunciado](./desafio_5.ipynb)
+  * Mínimos cuadrados:
+  	- Ecuaciones normales
+  	- Descomposición QR
